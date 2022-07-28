@@ -1,4 +1,2 @@
-# olMEGA_MobileSoftware_V2
-Download compiled Android APK from https://tgm.jade-hs.de/media/olMEGA/
-
-You can download the newest version always via https://tgm.jade-hs.de/media/olMEGA/latestVersion.php
+# olMEGA_MobileSoftware_V2 KIT Version
+This version is a kotlin refactor/rewrite of the core systems of the olMEGA_MobileSoftware_V2 for use at the IFSS (KIT).
